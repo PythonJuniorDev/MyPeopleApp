@@ -6,7 +6,7 @@ Welcome to **MyPeopleApp** — a simple VB.NET console application created to ex
 
 The goal of this project is to challenge myself by learning **VB.NET**, a language I haven’t used before. Since I already know **Python** and **C#**, learning VB.NET is easier — the core concepts are familiar, just with a different syntax.
 
-## 🧱 What This App Does
+## 💡 What This App Does
 
 This app models:
 - 👤 **People** (name, age, job)
