@@ -11,6 +11,9 @@ Public Class Address
     ' Property for the postal code
     Public Property ZipCode As String
 
+    ' Property for person
+    Public Property Person As Person
+
     ' Constructor to initialize the address properties
     Public Sub New(street As String, city As String, zipcode As String)
         Me.Street = street
